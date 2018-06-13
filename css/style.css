@@ -30,3 +30,17 @@ body, html{
     background-image: url('../img/ColumbusRiverNight.jpg');
     min-height: 400px; 
 }
+
+.section{
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-light{
+    background-color:transparent;
+    color: #666
+}
+.section-dark{
+    background-color: black;
+    color: #ddd;
+}
