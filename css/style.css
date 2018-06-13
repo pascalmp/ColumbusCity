@@ -37,10 +37,26 @@ body, html{
 }
 
 .section-light{
-    background-color:transparent;
+    background: color #f4f4f4;
     color: #666
 }
 .section-dark{
     background-color: black;
     color: #ddd;
+}
+.ctext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    font-size: 27px;
+    text-align: center;
+    color: #000;
+    letter-spacing:7px;
+    text-transform: uppercase;  
+}
+
+.ctext .border{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
 }
