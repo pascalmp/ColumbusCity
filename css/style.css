@@ -1,6 +1,11 @@
 body, html{
     height: 100%;
     margin: 0;
+    font-size: 18px;
+    font-display: "lato", sans-serif;
+    font-weight: 500;
+    line-height: 1.9em;
+    color: aliceblue;
 }
 .ColumbusDay1{
     background-image: url('../img/ColumbusDay1.jpg');
