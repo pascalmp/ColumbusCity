@@ -6,3 +6,7 @@ body, html{
     background-image: url('../img/ColumbusDay1.jpg');
     min-height: 100%;
 }
+.ColumbusNight2{
+    background-image: url('../img/ColumbusNight2.jpg');
+    min-height: 100%; 
+}
