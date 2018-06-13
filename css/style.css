@@ -56,7 +56,17 @@ body, html{
 }
 
 .ctext .border{
-    background-color: #000;
+    background-color: #111;
     color: #fff;
     padding: 20px;
+}
+
+.ctext .border.trans{
+    background-color: transparent;
+}
+
+@media(max-width:568px){
+    .ColumbusDay1, .ColumbusNight2, .ColumbusRiverNight{
+        background-attachment: scroll;
+    }
 }
