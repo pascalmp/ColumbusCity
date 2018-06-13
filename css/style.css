@@ -8,5 +8,9 @@ body, html{
 }
 .ColumbusNight2{
     background-image: url('../img/ColumbusNight2.jpg');
-    min-height: 100%; 
+    min-height: 400px; 
+}
+.ColumbusRiverNight{
+    background-image: url('../img/ColumbusRiverNight.jpg');
+    min-height: 400px; 
 }
