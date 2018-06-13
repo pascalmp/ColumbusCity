@@ -5,8 +5,15 @@ body, html{
     font-display: "lato", sans-serif;
     font-weight: 500;
     line-height: 1.9em;
-    color: aliceblue;
+    color: rgb(36, 38, 39);
 }
+
+.ColumbusDay1, .ColumbusNight2, .ColumbusRiverNight{
+    position: relative;
+    opacity: 0.80;
+    background-position: center;
+}
+
 .ColumbusDay1{
     background-image: url('../img/ColumbusDay1.jpg');
     min-height: 100%;
