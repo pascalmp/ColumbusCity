@@ -13,6 +13,9 @@ body, html{
     opacity: 0.80;
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
 }
 
 .ColumbusDay1{
