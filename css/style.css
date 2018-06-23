@@ -31,6 +31,11 @@ body, html{
     min-height: 400px; 
 }
 
+.ColumbusSkylineNight{
+    background-image: url('../img/ColumbusSkylineNight.jpg');
+    min-height: 400px; 
+}
+
 .section{
     text-align: center;
     padding: 50px 80px;
