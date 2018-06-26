@@ -7,3 +7,12 @@
     <title>Columbus City</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+<body>
+    <div class="ColumbusDay1">
+        <div class="ctext">
+            <span class="border">
+                Columbus
+            </span>
+
+        </div>
+    </div>
